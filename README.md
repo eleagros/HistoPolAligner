@@ -4,7 +4,7 @@
 [![CI](https://github.com/RomGr/PathologyPaper/actions/workflows/ci.yml/badge.svg)](https://github.com/RomGr/PathologyPaper/actions/workflows/ci.yml)
 
 by
-Romane Gros
+Éléa Gros
 
 The manuscript linked to the present repository is currently under submitted and under review. The present repository contains the code used to generate the results presented in the manuscript.
 
@@ -94,3 +94,4 @@ All source code is made available under a BSD license. See `LICENSE` for the ful
 
 ## Acknowledgements
 Special thanks to Stefano Moriconi for the development of the pipeline for processing the Mueller polarimetry images.
+
