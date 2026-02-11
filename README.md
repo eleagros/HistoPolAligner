@@ -1,12 +1,8 @@
-# Pathology-Guided Quantification of Polarimetric Parameters in Brain Tumors
+# Characterization of polarimetric properties in various brain tumor types using wide-field imaging Mueller polarimetry
 
-[![Twitter](https://img.shields.io/twitter/follow/horao_eu?style=flat)](https://twitter.com/horao_eu)
-[![CI](https://github.com/RomGr/PathologyPaper/actions/workflows/ci.yml/badge.svg)](https://github.com/RomGr/PathologyPaper/actions/workflows/ci.yml)
+by Éléa Gros
 
-by
-Éléa Gros
-
-The manuscript linked to the present repository is currently under submitted and under review. The present repository contains the code used to generate the results presented in the manuscript.
+The manuscript linked to the present repository, entitled "Characterization of polarimetric properties in various brain tumor types using wide-field imaging Mueller polarimetry", is currently published in IEEE Transactions on Medical Imaging [https://doi.org/10.1109/TMI.2024.3413288](10.1109/TMI.2024.3413288). The present repository contains the code used to generate the results presented in the manuscript.
 
 The study aimed to quantify the polarimetric parameters of neoplastic brain tissue. 
 
@@ -92,6 +88,13 @@ Five subfolders can be found in the `data` folder:
 ## License
 All source code is made available under a BSD license. See `LICENSE` for the full license text.
 
+## Citation
+If you use this code or data, please cite the associated manuscript:
+```
+É. Gros et al., "Characterization of Polarimetric Properties in Various Brain Tumor Types Using Wide-Field Imaging Mueller Polarimetry," in IEEE Transactions on Medical Imaging, vol. 43, no. 12, pp. 4120-4132, Dec. 2024, doi: 10.1109/TMI.2024.3413288.
+```
+
 ## Acknowledgements
 Special thanks to Stefano Moriconi for the development of the pipeline for processing the Mueller polarimetry images.
+
 
